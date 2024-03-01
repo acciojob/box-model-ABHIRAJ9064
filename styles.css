@@ -1,7 +1,7 @@
 .border{
 border-radius: 50px;
-border-style: solid;
-	background-color: lightgoldenrodyellow;
+border: 5px solid black;
+	background-color: #F0F0F0;
  padding: 20px; 
   width: 500px;
   height: 150px; 
