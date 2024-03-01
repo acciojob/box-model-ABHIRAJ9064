@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+.border{
+border-radius: 50px;
+border-style: solid;
+	background-color: lightgoldenrodyellow;
+ padding: 20px; 
+  width: 500px;
+  height: 150px; 
+	text-align:center;
+}
+.dotgreen {
+ height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotyellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotred {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
